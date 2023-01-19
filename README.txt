@@ -1,2 +1,1 @@
-README file 
-a file README.txt inside ‘Assignments’
+READ THE TEXT DOCUMENT
